@@ -9,7 +9,7 @@ session_start();
 
 		public function ruta(){
 			//Local
-			return "http://localhost:8080/sermar/";
+			return "https://trackingpcl.azurewebsites.net/";
 			//QA
 
 		}
